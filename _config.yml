@@ -24,7 +24,7 @@ description: >- # desc
   github page of a ustb student
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://skl-814.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: none
+bilibili_username: skl2007814_163
 github_username:  skl-814
 
 # Build settings
@@ -53,3 +53,4 @@ plugins:
 #   - vendor/ruby/
 exclude:
   - mypages/
+  - .vscode/
